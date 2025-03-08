@@ -1,6 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Here's an English version of the README for your GitHub repository:
 
 ```markdown
 # Smart Pharmacy - Medication Demand Prediction using KNN
