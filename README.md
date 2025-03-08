@@ -66,11 +66,7 @@ predictions = knn.predict(X_test)
 print(classification_report(y_test, predictions))
 ```
 
-## 📊 Results
-- Overall Accuracy: 87%
-- Confusion Matrix:
 
-![Confusion Matrix](images/confusion_matrix.png)
 
 ## 🚀 Getting Started
 1. Clone repository:
@@ -88,12 +84,6 @@ pip install -r requirements.txt
 jupyter notebook Pharmacy_KNN.ipynb
 ```
 
-## 📝 Future Enhancements
-- Develop Flask web interface
-- Add inventory prediction module
-- Implement hybrid recommendation system
-- Expand dataset with real-world pharmacy data
-- Create Docker container for deployment
 
 ## 📄 License
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
